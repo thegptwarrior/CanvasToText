@@ -1,5 +1,6 @@
 CanvasToText v1.10
 ==================
+THIS TOOL IS INTENDED FOR ACCESSIBILITY PURPOSES ONLY AND IS NOT DESIGNED OR INTENDED TO FACILITATE CHEATING, PLAGIARISM, OR ACADEMIC MISCONDUCT.
 
 CanvasToText downloads audio from supported Canvas-hosted videos and sends the audio to Buzz / Faster Whisper for local transcription.
 
