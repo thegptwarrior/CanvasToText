@@ -71,7 +71,7 @@ CanvasToText currently supports:
 
 A typical CanvasToText workflow looks like this:
 
-``text
+```text
 Canvas lecture page
         ↓
 Canvas media manifest
